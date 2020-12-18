@@ -7,14 +7,8 @@ Customizing is a thing now! Be unique, express yourself and do it easily! Be
 ## Screenshots:
 
 
-![](images/APPLE_1.PNG =50x100)
-![](images/APPLE_2.PNG)
-![](images/APPLE_3.PNG)
-![](images/APPLE_4.PNG)
-![](images/APPLE_5.PNG)
-![](images/APPLE_6.PNG)
-
-
+![](images/1.png)
+![](images/2.png)
 
 
 ## Contact me
